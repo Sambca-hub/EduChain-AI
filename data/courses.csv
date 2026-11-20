@@ -1,0 +1,17 @@
+
+course_id,course_name,category,skills,level,description,career
+C001,Python Programming,Programming,"Python coding logic algorithms",Beginner,"Learn Python programming and problem solving","Python Developer"
+C002,Machine Learning,Artificial Intelligence,"Python machine learning statistics data analysis",Intermediate,"Build predictive machine learning models","Machine Learning Engineer"
+C003,Deep Learning,Artificial Intelligence,"Neural networks Python TensorFlow AI",Advanced,"Explore neural networks and deep learning","AI Engineer"
+C004,Web Development,Programming,"HTML CSS JavaScript frontend backend",Beginner,"Learn how to create modern websites","Web Developer"
+C005,Data Science,Data Science,"Python SQL statistics visualization analytics",Intermediate,"Analyze data and generate business insights","Data Scientist"
+C006,Cloud Computing,Cloud Technology,"AWS Azure cloud infrastructure DevOps",Intermediate,"Understand cloud infrastructure and deployment","Cloud Engineer"
+C007,Cybersecurity,Security,"Network security ethical hacking cryptography",Intermediate,"Learn information security and risk management","Security Analyst"
+C008,Blockchain Development,Blockchain,"Solidity smart contracts distributed systems cryptography",Advanced,"Understand blockchain applications and smart contracts","Blockchain Developer"
+C009,UI UX Design,Design,"Figma wireframing prototyping user research",Beginner,"Design user-friendly digital experiences","UX Designer"
+C010,Digital Marketing,Marketing,"SEO social media analytics advertising",Beginner,"Learn digital marketing strategies","Digital Marketing Specialist"
+C011,Database Management,Database,"SQL MySQL PostgreSQL database design",Beginner,"Learn database architecture and queries","Database Administrator"
+C012,Mobile App Development,Programming,"Flutter Dart Android iOS mobile applications",Intermediate,"Build cross-platform mobile applications","Mobile Developer"
+C013,Data Analytics,Data Science,"Excel SQL Power BI Python dashboards",Beginner,"Learn data interpretation and visualization","Data Analyst"
+C014,Robotics Engineering,Engineering,"Robotics sensors automation Python electronics",Advanced,"Explore robotics and intelligent automation","Robotics Engineer"
+C015,Generative AI,Artificial Intelligence,"LLM prompt engineering transformers Python AI",Intermediate,"Build applications using generative AI","AI Application Developer"

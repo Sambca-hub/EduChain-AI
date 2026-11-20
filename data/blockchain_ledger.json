@@ -1,0 +1,59 @@
+[
+    {
+        "index": 1,
+        "timestamp": "2026-11-20T09:39:17.250315+00:00",
+        "student_id": "bca051",
+        "recommendations": [
+            "C001",
+            "C004",
+            "C009",
+            "C010",
+            "C011"
+        ],
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "hash": "e241627dc3ed8229d4ef45d716c034f63392ed6dfc38c7b8146fee516e8a0ccc"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-11-20T09:39:35.652830+00:00",
+        "student_id": "bca051",
+        "recommendations": [
+            "C001",
+            "C004",
+            "C009",
+            "C010",
+            "C011"
+        ],
+        "previous_hash": "e241627dc3ed8229d4ef45d716c034f63392ed6dfc38c7b8146fee516e8a0ccc",
+        "hash": "00814b9458b4df3691a8a1ca101ba14df8eb694c305d0e0c5457ed4bf1532e4e"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-11-20T09:40:04.425381+00:00",
+        "student_id": "bca051",
+        "recommendations": [
+            "C001",
+            "C004",
+            "C009",
+            "C010",
+            "C011"
+        ],
+        "previous_hash": "00814b9458b4df3691a8a1ca101ba14df8eb694c305d0e0c5457ed4bf1532e4e",
+        "hash": "8b44565b9358c49e9bcbd1212956d18670f617a8a9c3d5e8b221c7024ee4cf05"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-11-20T09:40:15.672928+00:00",
+        "student_id": "bca051",
+        "recommendations": [
+            "C001",
+            "C004",
+            "C009",
+            "C010",
+            "C011",
+            "C013"
+        ],
+        "previous_hash": "8b44565b9358c49e9bcbd1212956d18670f617a8a9c3d5e8b221c7024ee4cf05",
+        "hash": "04faf7a7cd3be7de474ced29ac4ae371e678d1ecbad6532aa4d682ecc01134fe"
+    }
+]
